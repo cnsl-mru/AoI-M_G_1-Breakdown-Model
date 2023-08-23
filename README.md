@@ -1,5 +1,5 @@
 **Acknowledgement:** 
-*Muthukrishnan S. Kumar, Aresh Dadlani, Masoumeh Moradian, Ahmad Khonsari, Theodoros A. Tsiftsis, "On the Age of Status Updates in Unreliable Multi-Source M/G/1 Queueing Systems," IEEE Communications Letters, vol. 27, no. 2, pp. 751-755, February 2023.* ([DOI](https://doi.org/10.1109/LCOMM.2022.3219729))
+*Muthukrishnan S. Kumar, Aresh Dadlani, Masoumeh Moradian, Ahmad Khonsari, Theodoros A. Tsiftsis, *"On the Age of Status Updates in Unreliable Multi-Source M/G/1 Queueing Systems,"* IEEE Communications Letters, vol. 27, no. 2, pp. 751-755, February 2023. ([DOI](https://doi.org/10.1109/LCOMM.2022.3219729))
 
 **You can also find the paper on arXiv ([link](https://doi.org/10.48550/arXiv.2208.01619)).**
 
